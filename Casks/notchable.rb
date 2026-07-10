@@ -1,6 +1,6 @@
 cask "notchable" do
   version "0.1.0"
-  sha256 "652f8311b34f8d4a79cd021f66be66454cbe99c5510571d66e0b13ab293442ae"
+  sha256 "a2642e06cd1e9274d325d65fe672d73489288c7536138b29fdc81bba1c4bc504"
 
   url "https://notchable.io/download/Notchable-0.1.0.zip"
   name "Notchable"
