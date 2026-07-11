@@ -1,6 +1,6 @@
 cask "notchable" do
   version "0.1.0"
-  sha256 "a2642e06cd1e9274d325d65fe672d73489288c7536138b29fdc81bba1c4bc504"
+  sha256 "8d67df2f55f9991257c1e1795d96e2a1fad682ee38f518fc28784fa5dedc6d97"
 
   url "https://notchable.io/download/Notchable-0.1.0.zip"
   name "Notchable"
@@ -13,7 +13,7 @@ cask "notchable" do
   end
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Notchable.app"
 
